@@ -34,6 +34,13 @@
 
 ---
 
+### 🚀 Projetos Front-End
+
+- [Site de uma Pousada](luanmirandati.github.io/Front-end) — HTML5 + CSS3   
+- [Outro Projeto](https://luanmirandati.github.io/Front-end) HTML5 + Bootstrap
+
+
+---
 ## 🛠️ Tecnologias e Ferramentas que já usei:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VSCode"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" alt="PyCharm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" alt="Bootstrap"/>
