@@ -37,7 +37,7 @@
 ### 🚀 Projetos Front-End
 
 - [Site de uma Pousada](https://luanmirandati.github.io/Front-end/) — HTML5 + CSS3   
-- [Outro Projeto](https://luanmirandati.github.io/Front-end2/) HTML5 + Bootstrap
+- [Website usando bootstrap](https://luanmirandati.github.io/Front-end2/) HTML5 + Bootstrap
 
 
 ---
