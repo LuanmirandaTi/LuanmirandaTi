@@ -1,28 +1,38 @@
+# 📚 Luan Miranda  
 
-# 📚 Luan Miranda
-
-🎓 Estudante de Programação no **Senac-RJ**  
-💡 Iniciei do zero, com foco em organização, prática constante e evolução contínua  
-🚀 Atualmente cursando a **3ª Unidade Curricular**, aprofundando conhecimentos em Back-End com Python e PyCharm
+🎓 Estudante de Programação no Senac-RJ  
+💡 Em transição de carreira, iniciei do zero com foco em **organização, prática constante e evolução contínua**  
+🚀 Atualmente cursando a 3ª Unidade Curricular, aprofundando conhecimentos em **Back-End com Python (PyCharm)**  
 
 ---
 
-## 📘 Minha Jornada no Curso:
+## 🚀 Minha Jornada na Programação  
+- ✅ **UC 1 – Lógica de Programação (Python):** estruturas condicionais, laços de repetição, primeiros scripts no VSCode  
+- ✅ **UC 2 – Desenvolvimento Front-End:** criação de site completo com HTML5, CSS3 e Bootstrap, design responsivo e navegação entre páginas  
+- 🔄 **UC 3 – Desenvolvimento Back-End (Python):** aprofundamento em lógica, boas práticas de código, integração e automação no PyCharm  
 
-### ✅ UC 1 – **Lógica de Programação com Python**
-- Introdução ao raciocínio lógico aplicado à programação
-- Entrada e saída de dados, estruturas condicionais e laços de repetição
-- Desenvolvimento dos primeiros scripts no **VSCode**
+---
 
-### ✅ UC 2 – **Desenvolvimento Front-End**
-- Criação de um site completo e funcional
-- Utilização de **HTML5**, **CSS3** e **Bootstrap** para estrutura e estilo
-- Organização de arquivos, design responsivo e navegação entre páginas
+## 🛠️ Tecnologias e Ferramentas  
+- **Front-End:** HTML5, CSS3, Bootstrap, JavaScript (básico)  
+- **Back-End:** Python  
+- **Ferramentas:** Git, GitHub, VSCode, PyCharm  
 
-### 🔄 UC 3 – **Desenvolvimento Back-End com Python**
-- Aplicação prática de estruturas de repetição e lógica mais avançada
-- Desenvolvimento no **PyCharm**, estruturando melhor os códigos
-- Integração com conceitos de back-end e automação de tarefas
+---
+
+## 📂 Projetos  
+- 🌐 Site Pousada – Front-End com HTML, CSS e Bootstrap  
+- 💅 Studio de Unhas – Site com foco em design visual  
+- 🐍 Exercícios em Python – Práticas de lógica e POO  
+
+---
+
+## 📫 Conecte-se comigo  
+- [LinkedIn](https://www.linkedin.com/in/luan-miranda-58050b373/)  
+ 
+
+---
+⭐ *Desenvolvedor web em formação, sempre em busca de aprender, praticar e evoluir.*
 
 ---
 
