@@ -11,12 +11,6 @@
 - ✅ **UC 2 – Desenvolvimento Front-End:** criação de site completo com HTML5, CSS3 e Bootstrap, design responsivo e navegação entre páginas  
 - 🔄 **UC 3 – Desenvolvimento Back-End (Python):** aprofundamento em lógica, boas práticas de código, integração e automação no PyCharm  
 
----
-
-## 🛠️ Tecnologias e Ferramentas  
-- **Front-End:** HTML5, CSS3, Bootstrap, JavaScript (básico)  
-- **Back-End:** Python  
-- **Ferramentas:** Git, GitHub, VSCode, PyCharm  
 
 ---
 
