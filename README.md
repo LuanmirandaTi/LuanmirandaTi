@@ -28,6 +28,11 @@
 - [Site de uma Pousada](https://luanmirandati.github.io/Front-end/) — HTML5 + CSS3   
 - [Website usando bootstrap](https://luanmirandati.github.io/Front-end2/) HTML5 + Bootstrap
 
+---
+
+## 📫 Conecte-se comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-miranda-58050b373/)
+
 
 ---
 ## 🛠️ Tecnologias e Ferramentas que já usei:
