@@ -22,7 +22,7 @@
 - Aplicação prática de estruturas de repetição e lógica mais avançada  
 - Desenvolvimento no PyCharm, estruturando melhor os códigos  
 - Integração com conceitos de back-end e automação de tarefas  
-
+---
 ### 🚀 Projetos Front-End
 
 - [Site de uma Pousada](https://luanmirandati.github.io/Front-end/) — HTML5 + CSS3   
