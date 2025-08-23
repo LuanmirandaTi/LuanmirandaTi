@@ -22,7 +22,7 @@
 
 ## 📂 Projetos  
 - 🌐 Site Pousada – Front-End com HTML, CSS e Bootstrap  
-- 💅 Studio de Unhas – Site com foco em design visual  
+  
 - 🐍 Exercícios em Python – Práticas de lógica e POO  
 
 ---
@@ -38,7 +38,7 @@
 
 📌 Estou construindo meu portfólio com base no que aprendo em sala de aula, sempre buscando aplicar o conteúdo de forma prática e real.
 
-📫 Acompanhe meus projetos aqui no GitHub e no [LinkedIn](https://www.linkedin.com/in/luan-miranda-58050b373/)
+📫 Acompanhe meus projetos aqui no GitHub
 
 🧩 *"Cada linha de código é um passo na minha transformação profissional."*
 
