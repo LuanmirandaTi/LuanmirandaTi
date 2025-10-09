@@ -1,27 +1,29 @@
-# 📚 Luan Miranda
+👋 Olá, eu sou o Luan Miranda
 
-🎓 Estudante de Programação no **Senac-RJ**  
-💡 Iniciei do zero, com foco em **organização, prática constante e evolução contínua**  
-🚀 Atualmente cursando a **3ª Unidade Curricular**, aprofundando conhecimentos em **Back-End com Python e PyCharm**  
-
+💻 Desenvolvedor Web Júnior | Programador Python | Automação de Tarefas
 ---
+🚀 Formado pelo Senac-RJ em Lógica de Programação, Front-end e Back-end
+🎯 Foco em desenvolvimento de soluções práticas e automações inteligentes
+---
+🧠 Sobre mim
 
-## 📘 Minha Jornada no Curso
+Sou Desenvolvedor Web Júnior apaixonado por tecnologia, aprendizado constante e criação de soluções que facilitam o dia a dia.
+Comecei do zero no Senac-RJ, onde desenvolvi uma base sólida em lógica de programação, front-end e back-end.
 
-### ✅ UC 1 – Lógica de Programação com Python
-- Introdução ao raciocínio lógico aplicado à programação  
-- Entrada e saída de dados, estruturas condicionais e laços de repetição  
-- Desenvolvimento dos primeiros scripts no VSCode  
+Hoje aplico meus conhecimentos em projetos práticos, desenvolvendo sites, aplicações web e automação de pequenas tarefas com Python.
+Meu objetivo é continuar evoluindo profissionalmente e contribuir com empresas que valorizam inovação, código limpo e eficiência.
+---
+🧩 Minhas Especializações
 
-### ✅ UC 2 – Desenvolvimento Front-End
-- Criação de um site completo e funcional  
-- Utilização de HTML5, CSS3 e Bootstrap para estrutura e estilo  
-- Organização de arquivos, design responsivo e navegação entre páginas  
+💡 Lógica de Programação com Python — Estruturas condicionais, loops, funções e modularização
 
-### 🔄 UC 3 – Desenvolvimento Back-End com Python
-- Aplicação prática de estruturas de repetição e lógica mais avançada  
-- Desenvolvimento no PyCharm, estruturando melhor os códigos  
-- Integração com conceitos de back-end e automação de tarefas  
+🌐 Front-End — HTML5, CSS3, Bootstrap, design responsivo e boas práticas de UI
+
+⚙️ Back-End — Python (Django), integração com banco de dados e rotas dinâmicas
+
+🤖 Automação de Tarefas — Scripts personalizados para otimizar processos e economizar tempo
+
+
 ---
 ### 🚀 Projetos Front-End
 
