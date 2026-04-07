@@ -38,6 +38,10 @@ Criação de scripts em Python para automação de processos, visando otimizaç�
 - [Website usando bootstrap](https://luanmirandati.github.io/Front-end2/) HTML5 + Bootstrap
 
 ---
+🚀 Projetos - Python
+
+Popular repositories !! 
+
 
 ## 📫 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-miranda-58050b373/)
