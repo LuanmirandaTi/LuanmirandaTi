@@ -7,11 +7,15 @@
 ---
 🧠 Sobre mim
 
-Sou Desenvolvedor Web Júnior apaixonado por tecnologia, aprendizado constante e criação de soluções que facilitam o dia a dia.
-Comecei do zero no Senac-RJ, onde desenvolvi uma base sólida em lógica de programação, front-end e back-end.
+Desenvolvedor Web Júnior com formação em Programação em Python pelo Senac-RJ, com base sólida em lógica de programação, desenvolvimento front-end e noções de back-end.
 
-Hoje aplico meus conhecimentos em projetos práticos, desenvolvendo sites, aplicações web e automação de pequenas tarefas com Python.
-Meu objetivo é continuar evoluindo profissionalmente e contribuir com empresas que valorizam inovação, código limpo e eficiência.
+Tenho experiência na criação de projetos práticos, incluindo aplicações web, páginas responsivas e automação de tarefas com Python, sempre buscando escrever código organizado, funcional e de fácil manutenção.
+
+Atualmente sigo evoluindo meus conhecimentos em desenvolvimento web, com foco em construir soluções cada vez mais completas e eficientes.
+
+🚀 Tecnologias: Python | HTML | CSS
+💡 Interesses: Desenvolvimento Web | Automação | Back-end
+📈 Em constante evolução
 ---
 🧩 Minhas Especializações
 
