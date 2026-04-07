@@ -7,11 +7,11 @@
 ---
 🧠 Sobre mim
 
-Desenvolvedor Web Júnior com formação em Programação em Python pelo Senac-RJ, com base sólida em lógica de programação, desenvolvimento front-end e noções de back-end.
+Desenvolvedor Web Júnior formado em Programação em Python pelo Senac-RJ, com experiência na criação de projetos práticos utilizando lógica de programação, desenvolvimento front-end e conceitos de back-end.
 
-Tenho experiência na criação de projetos práticos, incluindo aplicações web, páginas responsivas e automação de tarefas com Python, sempre buscando escrever código organizado, funcional e de fácil manutenção.
+Atuo desenvolvendo aplicações web, páginas estruturadas com HTML e CSS e scripts de automação em Python, sempre com foco em código limpo, organização e eficiência.
 
-Atualmente sigo evoluindo meus conhecimentos em desenvolvimento web, com foco em construir soluções cada vez mais completas e eficientes.
+Busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir com soluções reais.
 
 🚀 Tecnologias: Python | HTML | CSS
 💡 Interesses: Desenvolvimento Web | Automação | Back-end
@@ -19,14 +19,17 @@ Atualmente sigo evoluindo meus conhecimentos em desenvolvimento web, com foco em
 ---
 🧩 Minhas Especializações
 
-💡 Lógica de Programação com Python — Estruturas condicionais, loops, funções e modularização
+💡 Lógica de Programação (Python)
+Desenvolvimento de algoritmos utilizando estruturas condicionais, laços de repetição, funções e organização modular de código.
 
-🌐 Front-End — HTML5, CSS3, Bootstrap, design responsivo e boas práticas de UI
+🌐 Front-end
+Desenvolvimento de interfaces com HTML5, CSS3 e Bootstrap, com foco em responsividade, usabilidade e boas práticas.
 
-⚙️ Back-End — Python (Django), integração com banco de dados e rotas dinâmicas
+⚙️ Back-end (Python)
+Conhecimento em desenvolvimento com Python, incluindo estruturação de aplicações, rotas e integração com banco de dados, com base em conceitos de frameworks como Django.
 
-🤖 Automação de Tarefas — Scripts personalizados para otimizar processos e economizar tempo
-
+🤖 Automação de Tarefas
+Criação de scripts em Python para automação de processos, visando otimização de tempo e aumento de eficiência.
 
 ---
 ### 🚀 Projetos Front-End
